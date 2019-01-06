@@ -11,3 +11,7 @@ A reading/watch list of things I believe are good watches or good learning
 
 ## To Watch
 * [Mock Google Interview - Patrick Shyu](https://www.youtube.com/watch?v=IWvbPIYQPFM)
+* [The Complete History of Linux (Abridged - Bryan Lunduke)](https://www.youtube.com/watch?v=UjDQtNYxtbU)
+
+## To Read
+* C Programming Language - Brian W. Kernighan & Dennis M. Ritchie
