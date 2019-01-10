@@ -2,6 +2,7 @@
 A reading/watch list of things I believe are good watches or good learning 
 
 ## Must Watch
+* [Reclaim your freedom with libre software now - Richard Stallman](https://youtu.be/n9YDz-Iwgyw)
 * Jon Skeet Enterprise Architecture - PluralSight 
 * [Git from the bits up - YouTube](https://www.youtube.com/watch?v=MYP56QJpDr4)
 * [The mind behind Linux | Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
