@@ -1,5 +1,5 @@
 # Things to learn
-A reading/watch list of things I believe are good watches or good learning 
+A list of things I have enjoyed watching or plan to watch
 
 ## Must Watch
 * [Reclaim your freedom with libre software now - Richard Stallman](https://youtu.be/n9YDz-Iwgyw)
@@ -14,5 +14,10 @@ A reading/watch list of things I believe are good watches or good learning
 * [Mock Google Interview - Patrick Shyu](https://www.youtube.com/watch?v=IWvbPIYQPFM)
 * [The Complete History of Linux (Abridged - Bryan Lunduke)](https://www.youtube.com/watch?v=UjDQtNYxtbU)
 
-## To Read
+# Things to read
+A list of books that I plan to read at some point
+
+##  Must Read
 * C Programming Language - Brian W. Kernighan & Dennis M. Ritchie
+* The Design of Everyday Things - Donald A. Norman
+* The Pheonix Project: A Novel about IT, Devops and Helping Your Business Win - Gene Kim
