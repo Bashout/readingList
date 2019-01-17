@@ -14,6 +14,10 @@ A list of things I have enjoyed watching or plan to watch
 * [Mock Google Interview - Patrick Shyu](https://www.youtube.com/watch?v=IWvbPIYQPFM)
 * [The Complete History of Linux (Abridged - Bryan Lunduke)](https://www.youtube.com/watch?v=UjDQtNYxtbU)
 
+### YouTube channels that tend to have good content
+
+* [The Coding Train - Videos about processing](https://www.youtube.com/thecodingtrain)
+
 # Things to read
 A list of books that I plan to read at some point
 
