@@ -15,8 +15,8 @@ A list of things I have enjoyed watching or plan to watch
 * [The Complete History of Linux (Abridged - Bryan Lunduke)](https://www.youtube.com/watch?v=UjDQtNYxtbU)
 
 ### YouTube channels that tend to have good content
-
 * [The Coding Train - Videos about processing](https://www.youtube.com/thecodingtrain)
+* (TBC)[FunFunFunction - Mainly JavaScript based content](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
 # Things to read
 A list of books that I plan to read at some point
