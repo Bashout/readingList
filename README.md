@@ -2,6 +2,7 @@
 * CSS Grid
 * UI design
 * How to install Arch - including dealing with networking issues
+* Docker, Kubernetes and potentially Azure Service Fabric
 
 ## Must Watch
 * [Reclaim your freedom with libre software now - Richard Stallman](https://youtu.be/n9YDz-Iwgyw)
