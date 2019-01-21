@@ -1,5 +1,7 @@
 # Things to learn
-A list of things I have enjoyed watching or plan to watch
+* CSS Grid
+* UI design
+* How to install Arch - including dealing with networking issues
 
 ## Must Watch
 * [Reclaim your freedom with libre software now - Richard Stallman](https://youtu.be/n9YDz-Iwgyw)
