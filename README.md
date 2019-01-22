@@ -3,6 +3,7 @@
 * UI design
 * How to install Arch - including dealing with networking issues
 * Docker, Kubernetes and potentially Azure Service Fabric
+* Basic networking and how to properly host an (Nginx/Apache/IIS) webserver
 
 ## Must Watch
 * [Reclaim your freedom with libre software now - Richard Stallman](https://youtu.be/n9YDz-Iwgyw)
