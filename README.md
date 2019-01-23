@@ -17,6 +17,7 @@
 ## To Watch
 * [Mock Google Interview - Patrick Shyu](https://www.youtube.com/watch?v=IWvbPIYQPFM)
 * [The Complete History of Linux (Abridged - Bryan Lunduke)](https://www.youtube.com/watch?v=UjDQtNYxtbU)
+* [Computer Science - Crashcourse (playlist)](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
 ### YouTube channels that tend to have good content
 * [The Coding Train - Videos about processing](https://www.youtube.com/thecodingtrain)
