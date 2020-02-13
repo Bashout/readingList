@@ -1,9 +1,22 @@
 # Things to learn
-* CSS Grid
-* UI design
-* How to install Arch - including dealing with networking issues
-* Docker, Kubernetes and potentially Azure Service Fabric
-* Basic networking and how to properly host an (Nginx/Apache/IIS) webserver
+
+## Work Related 
+1. Angular in depth [Udemy course](https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/6655614#overview)
+2. Bash scripting with the Azure CLI
+3. CSS Grid
+
+## Personal learning 
+* Frameworks / Languages:
+	* Xamarin
+	* Go
+	* Vimscript
+
+* Non-Framework related:
+	* ~~How to install Arch - including dealing with networking issues~~
+	* Docker, Kubernetes and potentially Azure Service Fabric
+	* Basic networking and how to properly host an (Nginx/Apache/IIS) webserver
+
+---
 
 ## Must Watch
 * [Reclaim your freedom with libre software now - Richard Stallman](https://youtu.be/n9YDz-Iwgyw)
@@ -22,9 +35,6 @@
 ### YouTube channels that tend to have good content
 * [The Coding Train - Videos about processing](https://www.youtube.com/thecodingtrain)
 * (TBC)[FunFunFunction - Mainly JavaScript based content](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
-
-# Things to read
-A list of books that I plan to read at some point
 
 ##  Must Read
 * C Programming Language - Brian W. Kernighan & Dennis M. Ritchie
